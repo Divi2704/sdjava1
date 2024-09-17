@@ -1,0 +1,1 @@
+Merging of two different files in git bash
